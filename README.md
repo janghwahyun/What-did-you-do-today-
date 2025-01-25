@@ -1,5 +1,5 @@
 # What-did-you-do-today
-### 오늘 할일을 적어놓자 / 마크다운연습도
+### 개발관련 오늘은 무엇을 했니? / 마크다운연습도
 
 <details>
 <summary>2025.01.25</summary>
