@@ -2,6 +2,14 @@
 ### 개발관련 오늘은 무엇을 했니? / 마크다운연습도
 
 <details>
+<summary>2025.02.09</summary>
+<div markdown="1">
+- 코드잇 react-data-다루기 수강
+- 솔로트립 오너 레포지토리 오체분시
+</div>
+</details>
+
+<details>
 <summary>2025.02.04</summary>
 <div markdown="1">
 - 관계력 책 읽기 <br>
