@@ -2,6 +2,14 @@
 ### 개발관련 오늘은 무엇을 했니? / 마크다운연습도
 
 <details>
+<summary>2025.02.10</summary>
+<div markdown="1">
+- 코드잇 react-data-다루기 수강
+- 코드캠프 과제 정리 (기능위주로 정리)
+</div>
+</details>
+
+<details>
 <summary>2025.02.09</summary>
 <div markdown="1">
 - 코드잇 react-data-다루기 수강
