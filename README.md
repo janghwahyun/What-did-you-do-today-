@@ -4,6 +4,13 @@
 <details>
 <summary>2025.02.11</summary>
 <div markdown="1">
+- 인프런 엑셀 강의듣기
+</div> 
+</details>
+
+<details>
+<summary>2025.02.11</summary>
+<div markdown="1">
 - 코드잇 react-data-다루기 수강 <br>
 - 코드캠프 과제 정리 (기능위주로 정리)
 </div> 
