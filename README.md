@@ -10,6 +10,14 @@
 </details>
 
 <details>
+<summary>2025.02.16</summary>
+<div markdown="1">
+- 인프런 엑셀 강의듣기
+- 코드잇 리엑트 데이터 다루기 강의 듣기
+</div> 
+</details>
+
+<details>
 <summary>2025.02.13</summary>
 <div markdown="1">
 - 인프런 엑셀 강의듣기
